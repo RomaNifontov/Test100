@@ -8,6 +8,7 @@ public class App {
         ArrayList<Integer> test = new ArrayList<>(Arrays.asList(1,2,34,5,543,453));
         System.out.println(test);
         //Слил вместе Тест4 и Тест3
+        //комментарий
 
 
     }
